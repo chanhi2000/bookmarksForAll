@@ -15,9 +15,12 @@
 	- #### [SwiftLab](http://swiftlab.kr/)
 	- #### [lifetimeCoding](http://lifetimecoding.me/)
 	- #### [Seorenn's blog](http://seorenn.blogspot.kr/search/label/Swift)
+	- #### [이상한모임(iOS)](http://blog.weirdx.io/post/tag/ios-dev)
+	- #### [StormOfTwoYellowBeans](http://notpeelbean.tistory.com/category/iOS)
 
 - ## githubs
 	- #### [LucasDerraugh](https://github.com/lucasderraugh)
+		- [YouTube Guide](https://www.youtube.com/user/AppleProgramming/playlists)
 	- #### [hsavit1](https://github.com/hsavit1)
 	- #### [WayneBishop](https://github.com/waynewbishop/)
 
@@ -31,6 +34,7 @@
 	- #### [DucTran](https://www.ductran.co/)
 	- #### [infLearn: iOS](https://www.inflearn.com/course-cat/development/mobile/ios/)
 	- #### [LearnSwift.tips](http://www.learnswift.tips/)
+	- #### [appGuruz](http://www.theappguruz.com/category/ios)
 	- #### [thenewboston](https://thenewboston.com/forum/category.php?id=12&orderby=recent&)
 		- [YouTube guide](https://www.youtube.com/watch?v=83WXmhin_LU&list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 	- #### [hackingWithSwift](https://www.hackingwithswift.com)
@@ -39,3 +43,5 @@
 	- #### [veaSOFTWARE](https://www.veasoftware.com/)
 		- [YouTube guide](https://www.youtube.com/user/veasoftware/videos)
 	- #### [ipchat-twilio](https://www.twilio.com/docs/tutorials/walkthrough/ip-chat/ios/swift)
+	- #### [twilio](https://www.twilio.com/blog/2015/12/getting-started-with-swift-on-linux.html)
+	- #### [how-to-build-an-ios-messaging-app](https://www.gitbook.com/book/jiver/how-to-build-an-ios-messaging-app/details) 
