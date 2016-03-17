@@ -14,4 +14,5 @@
 - ## tutorials
 	- [appGuruz](http://www.theappguruz.com/category/android)	
 	- [이상한모임](http://blog.weirdx.io/post/tag/android)
+	
 

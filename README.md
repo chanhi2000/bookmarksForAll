@@ -15,5 +15,8 @@ A curated collection of bookmarks for everyone to see.
 	- [JAVA+ANDROID/tutorials](https://chanhi2000.gitbooks.io/bookmarksforall/content/java/java.html#tutorials)
 
 - #### [MARKDOWN](markdown/markdown.md)
+	
+- #### [PROJECTS](project/project.md)
 
-- #### []
+- #### [JAVASCRIPT](javascript/javascript.md)
+
