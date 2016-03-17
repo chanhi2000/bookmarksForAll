@@ -3,10 +3,10 @@ A curated collection of bookmarks for everyone to see.
 
 ## CONTENTS
 - ####[SWIFT](swift/swift.md)
-	- ######[SWFIT/3rdPart](swift/swift.md)
-	- ######[SWIFT/blogs](swift/swift.md)
-	- ######[SWIFT/githubs](swift/swift.md)
-	- ######[SWIFT/tutorials](swift/swift.md)
+	- ######[SWIIT/3rdPart](swift/swift.md/#3rdparty)
+	- ######[SWIFT/blogs](swift/swift.md/#blogs)
+	- ######[SWIFT/githubs](swift/swift.md/#githubs)
+	- ######[SWIFT/tutorials](swift/swift.md/#tutorials)
 
 - ####[JAVA+ANDROID]
 	- ######[JAVA+ANDROID] Forum / Blog / News
