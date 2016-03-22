@@ -33,6 +33,7 @@
 		- [github](https://github.com/sb2nov/sb2nov.github.io)
 	- [MonkeySnatchBanana](http://www.monkeysnatchbanana.com/)
 		- [github](https://github.com/SeanTAllen/MonkeySnatchBanana.com)
+	- [nuuneoi](http://nuuneoi.com/profile)
 
 - ## codepen
 	- [googleDots](http://codepen.io/jimoong/pen/xZxmQM)
