@@ -7,3 +7,6 @@
 - ## jQuery 
 	- [select2](https://select2.github.io/examples.html)
 		- [github](https://github.com/select2/select2)
+	- [simpleColorPicker](http://plnkr.co/edit/VVclW0?p=preview)
+		- [github](https://github.com/tkrotoff/jquery-simplecolorpicker)
+	

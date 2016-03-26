@@ -1,2 +1,41 @@
 # mac
-[구름입력기](http://gureum.io/#install)
+
+- ## FREEWARE
+	- ### TEXT EDITORS
+		- [JETBRAIN: IntelliJ IDEA](http://www.jetbrains.com/idea/)
+		- [JETBRAIN: PyCharm](http://www.jetbrains.com/pycharm/download/)
+		- [Dart](https://www.dartlang.org/)
+		- [FocusWriter](http://gottcode.org/focuswriter/)
+
+	- ### INTERNET BROWSER
+		- [TOR](https://www.torproject.org/)
+		- 
+	- ### MISC
+		- [Tickeys](https://github.com/yingDev/Tickeys/releases)
+		- [LinkLiar](https://github.com/halo/LinkLiar/releases/tag/1.1.2)
+		- [Mounty](http://www.enjoygineering.com/mounty/)
+		- 
+		- [구름입력기](http://gureum.io/#install)
+		- [TAPr](http://mhuusko5.com/#tapr)
+		- [Clipy](https://github.com/Clipy/Clipy/releases)
+		- [RecordIt](http://recordit.co/?ref=producthunt)
+		- [Riverflow](http://questbe.at/riverflow/)
+		- [infinit](https://infinit.io/)
+		- [Dictater](https://github.com/Nosrac/Dictater/releases/tag/1.0)
+		- [PhoneExpander](http://phoneexpander.com/)
+		- [appleWatch](http://www.rasmusnielsen.dk/applewatch/)
+		- [MacID](http://macid.co/)
+		- [lockitup](http://www.lockitup.co/)
+		- [pptctrl](http://wayhold.com/pptctrl)
+		- [skala preview](https://bjango.com/mac/skalapreview/)
+		- [Quip](https://quip.com/blog/desktop)
+		- [mojibar](https://github.com/muan/mojibar/releases/)
+		- [helium](http://heliumfloats.com/)
+		- [BTTRemote](http://www.bttremote.com/)
+		- [QuadroSync](http://quadro.me/sync)
+		- [pencil](http://pencil.evolus.vn/Default.html)
+		- [selfControl](http://visitsteve.com/made/selfcontrol/)
+	- ### SYSTEM CONFIG
+		- [detectX](http://sqwarq.com/detectx/)
+		- [oceanaudio](http://www.ocenaudio.com.br/start_download/ocenaudio.dmg)
+		- [TestFlight](http://testflightapp.com/)

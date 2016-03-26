@@ -45,7 +45,9 @@
 	- [ipchat-twilio](https://www.twilio.com/docs/tutorials/walkthrough/ip-chat/ios/swift)
 	- [twilio](https://www.twilio.com/blog/2015/12/getting-started-with-swift-on-linux.html)
 	- [how-to-build-an-ios-messaging-app](https://www.gitbook.com/book/jiver/how-to-build-an-ios-messaging-app/details) 
+	- [LearningOpenGLES2](https://github.com/skyfe79/LearningOpenGLES2)
 
 - ## other resources
 	- [ZEEF/Swift](https://swift.zeef.com/robin.eggenkamp)
 	- [ZEEF/iOSDev](https://ios-development.zeef.com/dcode.tapei)
+	
