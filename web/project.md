@@ -8,7 +8,7 @@
 	- [HTML909](http://html909.com/#/)
 		- [newVersion](http://808.html909.com/#/)
 	- [diffChecker](https://www.diffchecker.com/)
-	- [codeBlast](http://kushagragour.in/code-blast-codemirror/demo/index.html)
+	- [codeBlast](http://kushagragour.in/code-blast-codemirro협/demo/index.html)
 		- [website](http://kushagragour.in/)
 	- [responsiveMan](http://niravigad.com/responsive_man/)
 	- [VincentGarreau](http://vincentgarreau.com/en)
@@ -34,6 +34,7 @@
 	- [MonkeySnatchBanana](http://www.monkeysnatchbanana.com/)
 		- [github](https://github.com/SeanTAllen/MonkeySnatchBanana.com)
 	- [nuuneoi](http://nuuneoi.com/profile)
+	- [lex](https://www.lex-os.io/)
 
 - ## codepen
 	- [googleDots](http://codepen.io/jimoong/pen/xZxmQM)

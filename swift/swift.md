@@ -17,6 +17,7 @@
 	- [Seorenn's blog](http://seorenn.blogspot.kr/search/label/Swift)
 	- [이상한모임(iOS)](http://blog.weirdx.io/post/tag/ios-dev)
 	- [StormOfTwoYellowBeans](http://notpeelbean.tistory.com/category/iOS)
+	- [Young Kim](https://medium.com/@KimCrab/)
 
 - ## githubs
 	- [LucasDerraugh](https://github.com/lucasderraugh)
