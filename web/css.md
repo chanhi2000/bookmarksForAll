@@ -22,8 +22,12 @@
 	- [SimpleGrid](http://thisisdallas.github.io/Simple-Grid/)
 	- [PaintStrap](http://paintstrap.com/)
 	- [HTML5 NINJA](http://html5-ninja.com/preview/index/5#.URI96mdRbLv)
-
+	- [vectorMagic](http://vectormagic.com/home)
+	- [iconFinder](https://www.iconfinder.com/)
+	- [uiGradients](http://uigradients.com/#Moonrise)
 - ## UI webtool
 	- [screenQueries](http://beta.screenqueri.es/)
 	- [IUEditor](http://www.iueditor.org/product)
-	-  
+	- [cssPlayground](http://playground.webflow.com/)
+	- [nitrous](https://www.nitrous.io/)
+	 

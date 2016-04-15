@@ -35,6 +35,7 @@
 		- [QuadroSync](http://quadro.me/sync)
 		- [pencil](http://pencil.evolus.vn/Default.html)
 		- [selfControl](http://visitsteve.com/made/selfcontrol/)
+		- [timer-app](https://github.com/michaelvillar/timer-app)
 	- ### SYSTEM CONFIG
 		- [detectX](http://sqwarq.com/detectx/)
 		- [oceanaudio](http://www.ocenaudio.com.br/start_download/ocenaudio.dmg)
