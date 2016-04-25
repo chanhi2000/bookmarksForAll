@@ -25,9 +25,10 @@
 	- [vectorMagic](http://vectormagic.com/home)
 	- [iconFinder](https://www.iconfinder.com/)
 	- [uiGradients](http://uigradients.com/#Moonrise)
+	- [materializecss](http://materializecss.com/)
 - ## UI webtool
 	- [screenQueries](http://beta.screenqueri.es/)
 	- [IUEditor](http://www.iueditor.org/product)
 	- [cssPlayground](http://playground.webflow.com/)
 	- [nitrous](https://www.nitrous.io/)
-	 
+	- [materialpalette]http://www.materialpalette.com/
