@@ -3,7 +3,9 @@
 - ## blogs
 	- [stormOfTwoYellowBeans](http://notpeelbean.tistory.com/category/javascript)
 	- [js1k](http://js1k.com/2015-hypetrain/demos)
-
+	- [huns.me](http://huns.me)
+	- [shma](https://techstory.shma.so)
+	- [기발자](https://brunch.co.kr/@brunch92ny)
 - ## jQuery 
 	- [select2](https://select2.github.io/examples.html)
 		- [github](https://github.com/select2/select2)

@@ -49,7 +49,24 @@
 		-[github](https://github.com/ondras/star-wars/)
 	- [goldfish](http://ondras.github.io/goldfish/)
 		-[github](https://github.com/ondras/goldfish/)
-
+	- [Evolutionary Computation](http://www.alanzucconi.com)
+	- [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
+	- [Browsix](https://browsix.org)
+	- [Django-annotate-andaggregate-like-excel](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
+		- [github]()
+	- [haxiomic](https://github.com/haxiomic/haxiomic.github.io)
+		- [fluid-and-particle](http://haxiomic.github.io/projects/webgl-fluid-and-particles/)
+	- [bold.io](bold.io)
+	- [PIXELSYNTH](https://ojack.github.io/PIXELSYNTH/)
+	- [webtorrent](https://webtorrent.io)
+	- [brain.fm](https://www.brain.fm)
+	- [hyperterm](https://hyperterm.org)
+	- [Robby Leonardi's Resume](http://www.rleonardi.com/interactive-resume/)
+	- [css pokemon](https://projects.lukehaas.me/css-pokemon/)
+	- [Screen Finder](surebak.com/screen/)
+	- [music for programming](musicforprogramming.net?one)
 - ## codepen
 	- [googleDots](http://codepen.io/jimoong/pen/xZxmQM)
-	- 		
+	- [carousel animation](http://codepen.io/gxash/details/rLLyvq)		
+- ## slideshare
+	- [Effective Git](http://www.slideshare.net/kexplo/ndc2016-effective-git)
